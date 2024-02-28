@@ -1,20 +1,7 @@
 ### Hi there 👋
 
-<!--
-**amriz26/amriz26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- # 💫 About Me:
-- 💭Who Am I?: Hello! I am a Computer Science Undergrad Student At San Francisco State University!I am interested in Front-end, Back-end, and mobile development, I seek a Software Engineer Internship in an organization where I am committed to build upon and apply my knowledge and passion to create innovative solutions and make a meaningful contribution to the tech industry📖.<br><br>
-
-- ⚙️What am I working on?: I am currently working on and willing to collaborate on any sort of web application in next.js / react as well as mobile development using flutter👨🏻‍💻<br><br><br>
-
-- 📖What am I learning?:I am currently adjusting and learning to new frameworks and tools like next.js and flutter for future web apps and mobile development (new tools for me!)👾<br><br><br>
-
--Ask me about: new technologies/ frameworks / libraries!💻<br><br><br>Fun Fact: I love traveling!🌎<br>
-- 📫 How to reach me: Linkedin
-- ⚡ Fun fact: I love Traveling🗺️
+# 💫👨🏻‍💻About Me:
+💭Who Am I?: Hello! I am a Computer Science Undergrad Student At San Francisco State University!I am interested in Front-end, Back-end, and mobile development, I seek a Software Engineer Internship in an organization where I am committed to build upon and apply my knowledge and passion to create innovative solutions and make a meaningful contribution to the tech industry.<br><br>⚙️What am I working on?: I am currently working on and willing to collaborate on any sort of web application in next.js / react as well as mobile development using flutter👨🏻‍💻<br><br>📖What am I learning?:I am currently adjusting and learning to new frameworks and tools like next.js and flutter for future web apps and mobile development (new tools for me!)👾<br><br>💭Ask me about: new technologies/ frameworks / libraries!💻 <br><br> 📫How to reach out to me?: Linkedin<br><br>⚡Fun Fact: I love traveling!🌎<br>
 
 
 ## 🌐 Socials:
@@ -36,6 +23,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=amriz26&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->.
-
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
