@@ -33,7 +33,7 @@ August 2021 - June 2022 <br>
 •Collaborated with club members to design, construct, and program components for robotics, leading to successful participation in competitions such as the CalGames competition held in San Jose, CA, September 2021, where we were finalists. <br><br>
 
 
-I'm enthusiastic about applying my technical expertise and creative problem-solving skills to tackle new challenges and contribute to meaningful projects in software engineering. I'm looking forward to joining a dynamic team where we can achieve great things together and push the boundaries of innovation. ⚙ <br><br>
+  ➪➪ I'm enthusiastic about applying my technical expertise and creative problem-solving skills to tackle new challenges and contribute to meaningful projects in software engineering. I'm looking forward to joining a dynamic team where we can achieve great things together and push the boundaries of innovation. ⚙ <br><br>
 
 🌏Outside Tech Experience: Beyond my software engineering pursuits, I've dedicated time to roles focusing on communication and strategy. As Social Media Manager at ACM, I managed multiple platforms, created engaging content, and interacted with followers. Additionally, as Treasurer for the Muslim Student Association, I oversaw finances and led fundraising efforts, here are some highlights of my experience: <br>
 
