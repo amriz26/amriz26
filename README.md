@@ -1,32 +1,42 @@
 ### Hi there 👋
 
 # 💫👨🏻‍💻About Me:
-💭Who Am I?: Hello! I am a Computer Science Undergrad Student pursuing a minor in Computing applications and a gStar certificte in Machine Learning and Data Science in BioTech @ San Francisco State University! In the field of tech, my interests vary from Front-end, Back-end, and Mobile Development(perferablly ios) , as well as Cloud Computing (Cloud Support / Cloud Solutions Engineering). my skills vary with familiarity in various aspects of Software Engineer and development (frameworks, libraries, API, Databases, Application Documentation…etc) and I'm more than excited to bring my skills, learn, and apadpt to an organization that values and supports them. I seek a Software Engineer Internship within my interests in an organization where I am committed to building upon and applying my knowledge and passion to create innovative solutions and make a meaningful contribution to the tech industry. ᯤ<br><br> 🌐What's my experience looking like?: As a passionate and dedicated software engineering student, I have gained hands-on experience through internships that have honed my skills in backend development, data visualization, and AI model refinement. Below are highlights of my recent projects where I utilized cutting-edge tools and methodologies to deliver impactful solutions.
+💭Who Am I?: Hello! I am a Computer Science Undergrad Student pursuing a minor in Computing applications and a gStar certificte in Machine Learning and Data Science in BioTech @ San Francisco State University! In the field of tech, my interests vary from Front-end, Back-end, and Mobile Development(perferablly ios) , as well as Cloud Computing (Cloud Support / Cloud Solutions Engineering). my skills vary with familiarity in various aspects of Software Engineer and development (frameworks, libraries, API, Databases, Application Documentation…etc) and I'm more than excited to bring my skills, learn, and apadpt to an organization that values and supports them. I seek a Software Engineer Internship within my interests in an organization where I am committed to building upon and applying my knowledge and passion to create innovative solutions and make a meaningful contribution to the tech industry. ᯤ
 
-Software Engineering Internships
+<br><br> 🌐What's my experience looking like?: As a passionate and dedicated software engineering student, I have gained hands-on experience through internships that have honed my skills in backend development, data visualization, and AI model refinement. Below are highlights of my recent projects where I utilized new skills, cutting edge tools, methodologies, frameworks, and more to deliver impactful solutions to the industry.
 
-CodeDay Labs
+⭐ CodeDay Labs
 Software Engineering Intern - Backend Team (Data Visualization and Processing)
-June 2024 - August 2024
+<br> June 2024 - August 2024
 
-Tools: JavaScript, Mocha, Node.js, Plotly.js, Docker
-Implemented baseline graphing functionality for enhanced data visualization.
-Developed an administrative feature for customized data checks, improving user and admin capabilities.
-Created test cases for precise data handling and conversion (kWh to metric tons CO2); revised documentation for better file location specification.
-Co-authored a pull request for the Open Energy Dashboard, benefiting over 10,000 active users and contributing to its functionality for a user base of 600,000.
+Tools: JavaScript, Mocha, Node.js, Plotly.js, Docker <br>
+•During this internship,I had a grateful oppourunity to work in a team of 3-4 under an industry mentor to contribute to an open source software Open Energy Dashboard, a software that allows organizations to manage and view thier energy metrics. <br>
 
-OutlierAI
-AI Code Elevation and Training Engineer / Specialist
-May 2024
+Duirng my SWE internship I had the opportunity to... <br><br>
+•Implemented baseline graphing functionality for enhanced data visualization. <br>
+•Developed an administrative feature for customized data checks, improving user and admin capabilities. <br>
+•Created test cases for precise data handling and conversion (kWh to metric tons CO2); revised documentation for better file location specification. I sucessfully Co-authored a pull request (#1143) for the Open Energy Dashboard, benefiting over 10,000 active users and contributing to its functionality for a user base of 600,000. <br><br>
 
-Focus: AI model refinement, code evaluation, and test case development.
-Trained AI models to enhance predictive accuracy and performance.
-Worked on anomaly detection in finance, cybersecurity, and manufacturing using statistical methods, isolation forests, and deep learning.
-Solved complex coding problems to optimize AI algorithms, resulting in increased efficiency and reliability.
+⭐ OutlierAI
+AI Quality Engineer (AI Code Elevation and Training Engineer / Specialist)
+<br> May 2024
 
-I'm enthusiastic about applying my technical expertise and creative problem-solving skills to tackle new challenges and contribute to meaningful projects in software engineering. I'm looking forward to joining a dynamic team where we can achieve great things together and push the boundaries of innovation.</> <br><br>
+Focus: AI model refinement, code evaluation, and test case development. <br>
+•Trained AI models to enhance predictive accuracy and performance. <br>
+•Worked on anomaly detection in finance, cybersecurity, and manufacturing using statistical methods, isolation forests, and deep learning. <br>
+•Solved complex coding problems to optimize AI algorithms, resulting in increased efficiency and reliability. <br>
 
-⚙️What am I learning?:I'm actively expanding my toolkit and skillset in web application development through Next.js and React, while also delving into the realm of mobile development using Flutter. Additionally, I'm exploring the exciting fields of Machine Learning (ML) / Artificial Intelligence (AI) and Cloud Computing, particularly focusing on tools like TensorFlow and OpenAI to enhance my understanding and capabilities in these cutting-edge areas. Embracing a collaborative mindset, I am open to partnerships. This journey not only involves mastering existing skills but also adapting to and embracing new frameworks and tools like Next.js, Flutter, AWS & more, which represent exciting prospects for future web applications and mobile development (new tools for me!).👾 <br><br> </>What are some projects I am working on?: I am currently working on Budept Pal, a user-friendly budget tracking app, I'm currently focused on adding some exciting features to Budept Pal, like machine learning and an AI chatbot. These upgrades will help users by providing smart financial and budgeting advice. With AI, the app will predict budgets and spot unusual spending habits, giving personalized and real-time guidance to make managing money easier and more intuitive. I am also mapping out on an idea / getting started on a real estate agent matching web application called ConnectEstate. this will be dev using the MERN stack and API integration, the app revolutionizes the real estate industry by seamlessly linking users with top notch real estate agents through an intuitive user friendly interface, detailed agent profiles, authentic reviews, and secure messaging, ensuring agent-client collaboration satisfaction and efficiency.🦾<br><br> 💻What are some of my fav projects: #1:TasteWise🍽️: My full-stack web application, offers an intuitive recipe management system where users can input ingredients and receive tailored meal suggestions.The seamless user experience is crafted through a React front end, coupled with a Node.js and MongoDB backend, while the integration of machine learning adds a nutritional analysis layer, providing users with detailed macronutrient information for personalized meal insights.<br><br> #2: ScoreSync⚽: Leveraging Python and Node.js technologies, this platform integrates comprehensive player statistics from MongoDB, analyzing player performance and various factors, presenting a dynamic React interface that allows football enthusiasts to predict Premier League match outcomes based on in-depth player performance. Bringing a new level of engagement and strategy to football fandom through an intuitive API.👾<br><br>💭Ask me about: new technologies/ frameworks / libraries!💻 <br><br> 📫How to reach out to me?: Linkedin<br><br>⚡Fun Fact: I love traveling!🌎<br>
+I'm enthusiastic about applying my technical expertise and creative problem-solving skills to tackle new challenges and contribute to meaningful projects in software engineering. I'm looking forward to joining a dynamic team where we can achieve great things together and push the boundaries of innovation. </> <br><br>
+
+⚙️What am I learning?:I'm actively expanding my toolkit and skillset in web application development through Next.js and React, while also delving into the realm of mobile development using Flutter. Additionally, I'm exploring the exciting fields of Machine Learning (ML) / Artificial Intelligence (AI) and Cloud Computing, particularly focusing on tools like TensorFlow and OpenAI to enhance my understanding and capabilities in these cutting-edge areas. Embracing a collaborative mindset, I am open to partnerships. This journey not only involves mastering existing skills but also adapting to and embracing new frameworks and tools like Next.js, Flutter, AWS & more, which represent exciting prospects for future web applications and mobile development (new tools for me!).👾 
+
+<br><br> </>What are some projects I am working on?: I am currently working on Budept Pal, a user-friendly budget tracking app, I'm currently focused on adding some exciting features to Budept Pal, like machine learning and an AI chatbot. These upgrades will help users by providing smart financial and budgeting advice. With AI, the app will predict budgets and spot unusual spending habits, giving personalized and real-time guidance to make managing money easier and more intuitive. I am also mapping out on an idea / getting started on a real estate agent matching web application called ConnectEstate. this will be dev using the MERN stack and API integration, the app revolutionizes the real estate industry by seamlessly linking users with top notch real estate agents through an intuitive user friendly interface, detailed agent profiles, authentic reviews, and secure messaging, ensuring agent-client collaboration satisfaction and efficiency.🦾
+
+<br><br> 💻What are some of my fav projects: #1:TasteWise🍽️: My full-stack web application, offers an intuitive recipe management system where users can input ingredients and receive tailored meal suggestions.The seamless user experience is crafted through a React front end, coupled with a Node.js and MongoDB backend, while the integration of machine learning adds a nutritional analysis layer, providing users with detailed macronutrient information for personalized meal insights.
+
+<br><br> #2: ScoreSync⚽: Leveraging Python and Node.js technologies, this platform integrates comprehensive player statistics from MongoDB, analyzing player performance and various factors, presenting a dynamic React interface that allows football enthusiasts to predict Premier League match outcomes based on in-depth player performance. Bringing a new level of engagement and strategy to football fandom through an intuitive API.👾
+
+<br><br>💭Ask me about: new technologies/ frameworks / libraries!💻 <br><br> 📫How to reach out to me?: Linkedin ⬇️<br><br>⚡Fun Fact: I love traveling!🌎<br>
 
 
 ## 🌐 Socials:
