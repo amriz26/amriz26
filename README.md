@@ -29,7 +29,7 @@ Focus: AI model refinement, code evaluation, and test case development. <br>
 Software & Manufactuing Lead <br>
 August 2021 - June 2022 <br>
 
-•Supported robotic operations in setup and operation manufacturing, resulting in efficient runs.
+•Supported robotic operations in setup and operation manufacturing, resulting in efficient runs. <br>
 •Collaborated with club members to design, construct, and program components for robotics, leading to successful participation in competitions such as the CalGames competition held in San Jose, CA, September 2021, where we were finalists. <br><br>
 
 
