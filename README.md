@@ -3,34 +3,60 @@
 # 💫👨🏻‍💻About Me:
 💭Who Am I?: Hello! I am a Computer Science Undergrad Student pursuing a minor in Computing applications and a gStar certificte in Machine Learning and Data Science in BioTech @ San Francisco State University! In the field of tech, my interests vary from Front-end, Back-end, and Mobile Development(perferablly ios) , as well as Cloud Computing (Cloud Support / Cloud Solutions Engineering). my skills vary with familiarity in various aspects of Software Engineer and development (frameworks, libraries, API, Databases, Application Documentation…etc) and I'm more than excited to bring my skills, learn, and apadpt to an organization that values and supports them. I seek a Software Engineer Internship within my interests in an organization where I am committed to building upon and applying my knowledge and passion to create innovative solutions and make a meaningful contribution to the tech industry. ᯤ
 
-<br><br> 🌐What's my experience looking like?: As a passionate and dedicated software engineering student, I have gained hands-on experience through internships that have honed my skills in backend development, data visualization, and AI model refinement. Below are highlights of my recent projects where I utilized new skills, cutting edge tools, methodologies, frameworks, and more to deliver impactful solutions to the industry.
+<br>🌐What's my experience looking like?: As a passionate and dedicated software engineering student, I have gained hands-on experience through internships that have honed my skills in backend development, data visualization, and AI model refinement. Below are highlights of my recent projects where I utilized new skills, cutting edge tools, methodologies, frameworks, and more to deliver impactful solutions to the industry.
 
-⭐ CodeDay Labs
+⭐ CodeDay Labs <br>
 Software Engineering Intern - Backend Team (Data Visualization and Processing)
 <br> June 2024 - August 2024
 
 Tools: JavaScript, Mocha, Node.js, Plotly.js, Docker <br>
-•During this internship,I had a grateful oppourunity to work in a team of 3-4 under an industry mentor to contribute to an open source software Open Energy Dashboard, a software that allows organizations to manage and view thier energy metrics. <br>
+During my SWE internship,I had a grateful oppourunity to work in a team of 3-4 under an industry mentor to contribute to an open source software Open Energy Dashboard, a software that allows organizations to manage and view thier energy metrics, having the opportunity to... <br>
 
-Duirng my SWE internship I had the opportunity to... <br><br>
-•Implemented baseline graphing functionality for enhanced data visualization. <br>
-•Developed an administrative feature for customized data checks, improving user and admin capabilities. <br>
-•Created test cases for precise data handling and conversion (kWh to metric tons CO2); revised documentation for better file location specification. I sucessfully Co-authored a pull request (#1143) for the Open Energy Dashboard, benefiting over 10,000 active users and contributing to its functionality for a user base of 600,000. <br><br>
+  •Implement baseline graphing functionality for enhanced data visualization. <br>
+  •Develop an administrative feature for customized data checks, improving user and admin capabilities. <br>
+  •Create test cases for precise data handling and conversion (kWh to metric tons CO2); revised documentation for better file location specification,   sucessfully Co-authoring a pull request (#1143) for the Open Energy Dashboard, benefiting over 10,000 active users and contributing to its       functionality for a user base of 600,000. <br><br>
 
-⭐ OutlierAI
+⭐ OutlierAI <br>
 AI Quality Engineer (AI Code Elevation and Training Engineer / Specialist)
-<br> May 2024
+<br> May 2024 - Present
 
 Focus: AI model refinement, code evaluation, and test case development. <br>
 •Trained AI models to enhance predictive accuracy and performance. <br>
 •Worked on anomaly detection in finance, cybersecurity, and manufacturing using statistical methods, isolation forests, and deep learning. <br>
-•Solved complex coding problems to optimize AI algorithms, resulting in increased efficiency and reliability. <br>
+•Solved complex coding problems to optimize AI algorithms, resulting in increased efficiency and reliability. <br><br>
 
-I'm enthusiastic about applying my technical expertise and creative problem-solving skills to tackle new challenges and contribute to meaningful projects in software engineering. I'm looking forward to joining a dynamic team where we can achieve great things together and push the boundaries of innovation. </> <br><br><br>
+⭐ FRC Robotics <br>
+Software & Manufactuing Lead <br>
+August 2021 - June 2022 <br>
 
-⚙️What am I learning?:I'm actively expanding my toolkit and skillset in web application development through Next.js and React, while also delving into the realm of mobile development using Flutter. Additionally, I'm exploring the exciting fields of Machine Learning (ML) / Artificial Intelligence (AI) and Cloud Computing, particularly focusing on tools like TensorFlow and OpenAI to enhance my understanding and capabilities in these cutting-edge areas. Embracing a collaborative mindset, I am open to partnerships. This journey not only involves mastering existing skills but also adapting to and embracing new frameworks and tools like Next.js, Flutter, AWS & more, which represent exciting prospects for future web applications and mobile development (new tools for me!).👾 
+•Supported robotic operations in setup and operation manufacturing, resulting in efficient runs.
+•Collaborated with club members to design, construct, and program components for robotics, leading to successful participation in competitions such as the CalGames competition held in San Jose, CA, September 2021, where we were finalists. <br><br>
 
-<br> </>What are some projects I am working on?: I am currently working on Budept Pal, a user-friendly budget tracking app, I'm currently focused on adding some exciting features to Budept Pal, like machine learning and an AI chatbot. These upgrades will help users by providing smart financial and budgeting advice. With AI, the app will predict budgets and spot unusual spending habits, giving personalized and real-time guidance to make managing money easier and more intuitive. I am also mapping out on an idea / getting started on a real estate agent matching web application called ConnectEstate. this will be dev using the MERN stack and API integration, the app revolutionizes the real estate industry by seamlessly linking users with top notch real estate agents through an intuitive user friendly interface, detailed agent profiles, authentic reviews, and secure messaging, ensuring agent-client collaboration satisfaction and efficiency.🦾
+
+I'm enthusiastic about applying my technical expertise and creative problem-solving skills to tackle new challenges and contribute to meaningful projects in software engineering. I'm looking forward to joining a dynamic team where we can achieve great things together and push the boundaries of innovation. ⚙ <br><br>
+
+🌏Outside Tech Experience: Beyond my software engineering pursuits, I've dedicated time to roles focusing on communication and strategy. As Social Media Manager at ACM, I managed multiple platforms, created engaging content, and interacted with followers. Additionally, as Treasurer for the Muslim Student Association, I oversaw finances and led fundraising efforts, here are some highlights of my experience: <br>
+
+⭐Social Media Manager <br>
+ACM, Association for Computing Machinery <br>
+February 2023 - Present <br>
+
+As the Social Media Manager at the ACM, I played a key role in handling our online presence. This involved managing multiple social media platforms, creating engaging content, and communicating effectively with our audience to uphold our brand goals.<br>
+
+•Co-managed multiple social media platforms including Instagram, Facebook, and GatorExperience.
+•Generated, edited, published, and shared engaging content such as original captions, photos, and reels.
+•Developed and executed tailored social media plans in alignment with brand objectives where I effectively communicated with followers, promptly addressing messages, and monitoring these platforms. <br><br>
+
+⭐Treasurer, Muslim Student Association (MSA) <br>
+August 2024 - December 2024 <br>
+
+As Treasurer for the Muslim Student Association (MSA), I held a pivotal role in managing the organization's finances and facilitating its activities. Responsibilities included: <br>
+•Managaing budgeting, recording transactions, and purchasing supplies for MSA events. <br>
+•Coordinating fundraising strategies, secured funding, and managed financial accounts and budgets in collaboration with MSA leadership. <br><br><br>
+
+⚙️What am I learning?: I'm actively expanding my toolkit and skillset in web application development through Next.js and React, while also delving into the realm of mobile development using Flutter. Additionally, I'm exploring the exciting fields of Machine Learning (ML) / Artificial Intelligence (AI) and Cloud Computing, particularly focusing on tools like TensorFlow and OpenAI to enhance my understanding and capabilities in these cutting-edge areas. Embracing a collaborative mindset, I am open to partnerships. This journey not only involves mastering existing skills but also adapting to and embracing new frameworks and tools like Next.js, Flutter, AWS & more, which represent exciting prospects for future web applications and mobile development (new tools for me!).👾 
+
+<br> </>What are some projects I am working on?: I am currently working on addiontal features for Budept Pal, a user-friendly budget tracking app (created during the CalHacks HFI Hackathon)! I'm currently focused on adding some exciting features to Budept Pal, like machine learning and an AI chatbot. These upgrades will help users by providing smart financial and budgeting advice. With AI, the app will predict budgets and spot unusual spending habits, giving personalized and real-time guidance to make managing money easier and more intuitive. I am also mapping out on an idea / getting started on a real estate agent matching web application called ConnectEstate. this will be dev using the MERN stack and API integration, the app revolutionizes the real estate industry by seamlessly linking users with top notch real estate agents through an intuitive user friendly interface, detailed agent profiles, authentic reviews, and secure messaging, ensuring agent-client collaboration satisfaction and efficiency.🦾
 
 <br> 💻What are some of my fav projects: #1:TasteWise🍽️: My full-stack web application, offers an intuitive recipe management system where users can input ingredients and receive tailored meal suggestions.The seamless user experience is crafted through a React front end, coupled with a Node.js and MongoDB backend, while the integration of machine learning adds a nutritional analysis layer, providing users with detailed macronutrient information for personalized meal insights.
 
