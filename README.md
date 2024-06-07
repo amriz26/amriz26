@@ -50,7 +50,7 @@ As the Social Media Manager at the ACM, I played a key role in handling our onli
 ⭐Treasurer, Muslim Student Association (MSA) <br>
 August 2024 - December 2024 <br>
 
-As Treasurer for the Muslim Student Association (MSA), I held a pivotal role in managing the organization's finances and facilitating its activities. Responsibilities included: <br>
+As Treasurer for the Muslim Student Association (MSA), I held a pivotal role in managing the organization's finances and facilitating its activities. Responsibilities included: <br><br>
 •Managaing budgeting, recording transactions, and purchasing supplies for MSA events. <br>
 •Coordinating fundraising strategies, secured funding, and managed financial accounts and budgets in collaboration with MSA leadership. <br><br><br>
 
