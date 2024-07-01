@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ahmed! 👋
 
 # 💫👨🏻‍💻About Me:
 💭Who Am I?: Hello! I am a Software Engineer undergrad student pursuing my Bachelors in CS, minor in Computing applications and a gStar certificte in Machine Learning and Data Science in BioTech @ San Francisco State University! In the field of tech, my interests vary from Front-end, Back-end, and Mobile Development (perferablly ios), as well as Cloud Computing (Cloud Support / Cloud Solutions / Cloud Operations Engineering). my skills vary with familiarity in various aspects of Software Engineer and development (frameworks, libraries, API, Databases, Application Documentation…etc) and I'm more than excited to bring my skills, learn, and apadpt to an organization that values and supports them. I seek a Software Engineer Internship within my interests in an organization where I am committed to building upon and applying my knowledge and passion to create innovative solutions and make a meaningful contribution to the tech industry. ᯤ
