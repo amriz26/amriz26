@@ -63,7 +63,7 @@ As Treasurer for the Muslim Student Association (MSA), I held a pivotal role in 
 
 <br>#2: MindEase🧘‍♂: Crafted with a blend of Swift, React, Node.js, Django, Python, and hosted on AWS, MindEase stands as a beacon of support for college students navigating the complexities of mental health. Seamlessly weaving together a suite of tools, including guided meditation sessions, mood tracking, journaling, and a gateway to professional resources, MindEase empowers users to prioritize their mental well being. Leveraging APIs, it offers seamless integration with external services, enhancing the user experience and expanding the breadth of available resources. Whether it's finding calm through meditation or seeking guidance from a therapist, this platform offers a holistic approach to managing stress, anxiety, and other mental health concerns. Join us on the journey to mental wellness.👾
 
-<br>💭Ask me about: new technologies/ frameworks / libraries!💻 <br><br> 📫How to reach out to me?: Linkedin ⬇️<br><br>⚡Fun Fact: I love traveling!🌎<br>
+<br>💭Ask me about: new technologies/ frameworks / libraries! When I'm not typing away at my keyboard, you can find me exploring new tech trends, outside with the world, or dreaming up my next big idea💻 <br><br> 📫How to reach out to me?: Linkedin ⬇️<br><br>⚡Fun Fact: I love traveling!🌎<br>
 
 
 ## 🌐 Socials:
