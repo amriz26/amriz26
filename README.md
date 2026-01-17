@@ -9,7 +9,7 @@ Hi there, I'm Ahmed! 👋 <br><br>
 
 <br> </>What are some projects I am working on?: I am currently working on addiontal features for Budept Pal, a user-friendly budget tracking app (created during the CalHacks HFI Hackathon)! I'm currently focused on adding some exciting features to Budept Pal, like machine learning and an AI chatbot. These upgrades will help users by providing smart financial and budgeting advice. With AI, the app will predict budgets and spot unusual spending habits, giving personalized and real-time guidance to make managing money easier and more intuitive. I am also mapping out on an idea / getting started on co developing a real estate agent matching web application called ConnectEstate. this will be dev using the MERN stack and API integration, the app revolutionizes the real estate industry by seamlessly linking users with top notch real estate agents through an intuitive user friendly interface, detailed agent profiles, authentic reviews, and secure messaging, ensuring agent-client collaboration satisfaction and efficiency. You can check out my projects under my repositories🦾 <br> <br> 
 
-<br>💭Ask me about: new technologies/ frameworks / libraries! When I'm not typing away at my keyboard, you can find me exploring new tech trends, outside with the world, or dreaming up my next big idea🚀 <br><br> 📫How to reach out to me?: Linkedin ⬇️<br><br>⚡Fun Fact: I love traveling!🌎<br>
+<br>💭Ask me about: new technologies/ frameworks / libraries! When I'm not typing away at my keyboard, you can find me exploring new tech trends, outside with the world, or dreaming up my next big idea🚀 <br><br> 📫How to reach out to me?: Linkedin (attached in profile) <br><br>
 
 
 
