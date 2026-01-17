@@ -1,9 +1,7 @@
 ## 💫👨🏻‍💻About Me:
-  
 Hi there, I'm Ahmed! 👋 <br><br>
 
 💭Who Am I?: Hello! I am a Software Engineer undergrad pursuing my Bachelors in CS, minor in Computing applications and a gSTAR certificte in Machine Learning and Data Science for BioTech @ San Francisco State University! In the field of tech, my interests vary from Autonomous systems, Machine Learning / AI, to Product Engineering and more! My skills vary with familiarity in various aspects of Software Engineer and development (frameworks, libraries, API, Databases, Application Documentation…etc) and I'm more than excited to bring my skills, learn, and apadpt to an organization that values and supports them. I aspire to secure a Software Engineer, Prodcut Deisgn / Manager Internship within my interests in an organization where I am committed to building upon and applying my knowledge and passion to create and turn ideas into innovative solutions to make a meaningful contribution to the tech industry! ᯤ <br> <br>
-
 
 <br>🌐What's my experience looking like?: I'm a software engineering student who loves building things that actually work. Through my internships + contract work, I've gotten to dive deep into fullstack development, AI agents, Autonomous Systems and fine-tuning AI models and LLMS. Here's a look at some recent projects where I got to work with cool new tools and technologies to create solutions that made a real difference. <br> <br>
 
