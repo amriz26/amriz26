@@ -23,7 +23,7 @@
 ```python
 class Ahmed(Agent):
     location = "San Francisco, CA"
-    role     = "Engineering @ Casper Studios"
+    role     = "Engineering @ Casper Studios (Acquired by ODE with Anthropic)"
     school   = "B.S. Computer Science @ SFSU"
     prev     = ["Keplr AI", "Scale AI"]
     focus    = ["AI agents", "autonomous systems", "computer vision"]
