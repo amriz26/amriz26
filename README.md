@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/amriz26">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=b8cfd3&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Ahmed;Software+engineer+in+San+Francisco;Building+AI+agents+%40+Casper+Studios;CS+%40+SFSU+%C2%B7+prev+Keplr+AI+%26+Scale+AI;Turning+odd+ideas+into+working+apps" alt="intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=b8cfd3&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+Ahmed;Software+engineer+in+San+Francisco;Engineering+%40+Casper+Studios+%28Acquired+by+ODE+with+Anthropic%29;CS+%40+SFSU+%C2%B7+prev+Keplr+AI+%26+Scale+AI;Turning+odd+ideas+into+working+apps" alt="intro"/>
   </a>
 </p>
 
