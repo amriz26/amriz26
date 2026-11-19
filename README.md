@@ -20,27 +20,28 @@
 
 ---
 
-```console
-$ rosnode info /amriz26
+```python
+class Ahmed(Agent):
+    location = "San Francisco, CA"
+    role     = "Engineering @ Casper Studios"
+    school   = "B.S. Computer Science @ SFSU"
+    prev     = ["Keplr AI", "Scale AI"]
+    focus    = ["AI agents", "autonomous systems", "computer vision"]
 
-Node   [/amriz26]
-Host   : Ahmed M · San Francisco, CA
-Role   : Engineering @ Casper Studios
-Edu    : B.S. Computer Science @ SFSU
-Prev   : Keplr AI · Scale AI
-Focus  : AI agents · autonomous systems · computer vision
+    def observe(self):
+        return [webcam, fridge_cam, room_scan, typing_cadence]
 
-Subscriptions:
- * /webcam/image_raw        [sensor_msgs/Image]
- * /keyboard/cadence        [behavior_msgs/Typing]
- * /fridge/interior         [sensor_msgs/Image]
- * /world/new_ideas         [std_msgs/Chaos]
+    def act(self, signal):
+        return {
+            "hand gesture":  "move the cursor",          # AirMouse
+            "fridge photo":  "suggest dinner",           # PantryVision
+            "room scan":     "place furniture in AR",    # AR Furniture
+            "tab switching": "warn before you drift",    # Procrastination Predictor
+        }[signal]
 
-Publications:
- * /os/cursor               [geometry_msgs/Point]
- * /kitchen/meal_plan       [food_msgs/Recipe]
- * /room/furniture_pose     [geometry_msgs/PoseArray]
- * /github/commits          [std_msgs/Caffeine]
+    def loop(self):
+        while caffeine > 0:
+            self.act(self.observe())
 ```
 
 > I build things that **look at the world and then do something about it**.
