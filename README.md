@@ -95,6 +95,10 @@ flowchart LR
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,dart,c,pytorch,tensorflow,opencv,react,nextjs,flutter,nodejs,postgres,sqlite,aws,docker,git,linux&perline=9&theme=dark" alt="stack"/>
+  <br/>
+  <img src="assets/claude.svg" width="48" alt="Claude" title="Claude"/>&nbsp;
+  <img src="assets/chatgpt.svg" width="48" alt="ChatGPT / Codex" title="ChatGPT / Codex"/>&nbsp;
+  <img src="assets/cursor.svg" width="48" alt="Cursor" title="Cursor"/>
 </p>
 
 ### 📈 Telemetry
