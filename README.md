@@ -3,11 +3,11 @@
      sense → perceive → plan → act
      ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:b8cfd3,25:b4c5ca,42:899297,55:696c70,68:534e4e,82:443936,100:3d2e2c&text=amriz26&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=sense%20%E2%86%92%20perceive%20%E2%86%92%20plan%20%E2%86%92%20act&descAlignY=60&descSize=16&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:b8cfd3,25:b4c5ca,42:899297,55:696c70,68:534e4e,82:443936,100:3d2e2c&text=amriz26&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=software%20engineer%20%C2%B7%20AI%20agents%20%C2%B7%20San%20Francisco&descAlignY=60&descSize=16&animation=fadeIn" alt="header"/>
 
 <p align="center">
   <a href="https://github.com/amriz26">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=b8cfd3&center=true&vCenter=true&width=640&lines=%5BBOOT%5D+loading+perception+stack...;%5BOK%5D+camera+%E2%86%92+hand+landmarks+%E2%86%92+cursor;%5BOK%5D+fridge+pixels+%E2%86%92+ingredients+%E2%86%92+dinner;%5BOK%5D+tab-switch+entropy+%E2%86%92+procrastination+forecast;%5BIDLE%5D+waiting+for+the+next+weird+sensor..." alt="boot log"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=b8cfd3&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Ahmed;Software+engineer+in+San+Francisco;Building+AI+agents+%40+Casper+Studios;CS+%40+SFSU+%C2%B7+prev+Keplr+AI+%26+Scale+AI;Turning+odd+ideas+into+working+apps" alt="intro"/>
   </a>
 </p>
 
