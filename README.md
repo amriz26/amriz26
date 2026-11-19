@@ -3,7 +3,7 @@
      sense → perceive → plan → act
      ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:0f3d3e,100:00ffa3&text=amriz26&fontColor=e6edf3&fontSize=60&fontAlignY=38&desc=sense%20%E2%86%92%20perceive%20%E2%86%92%20plan%20%E2%86%92%20act&descAlignY=60&descSize=16&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:b8cfd3,25:b4c5ca,42:899297,55:696c70,68:534e4e,82:443936,100:3d2e2c&text=amriz26&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=sense%20%E2%86%92%20perceive%20%E2%86%92%20plan%20%E2%86%92%20act&descAlignY=60&descSize=16&animation=fadeIn" alt="header"/>
 
 <p align="center">
   <a href="https://github.com/amriz26">
@@ -124,4 +124,4 @@ flowchart LR
   <sub>📫 ping this node on LinkedIn (link in profile) · ask me about weird sensor inputs</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00ffa3,50:0f3d3e,100:0d1117&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:b8cfd3,25:b4c5ca,42:899297,55:696c70,68:534e4e,82:443936,100:3d2e2c&section=footer" alt="footer"/>
