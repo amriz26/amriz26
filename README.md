@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://amriz26.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-amriz26.github.io%2Fportfolio-b8cfd3?style=flat-square&labelColor=0d1117" alt="portfolio" /></a>
+  <a href="https://amriz26.github.io/ahmedm-portfolio/"><img src="https://img.shields.io/badge/portfolio-amriz26.github.io%2Fahmedm--portfolio-b8cfd3?style=flat-square&labelColor=0d1117" alt="portfolio" /></a>
   <img src="https://img.shields.io/badge/node-amriz26-b8cfd3?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/status-online-b8cfd3?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/loc-San%20Francisco-899297?style=flat-square&labelColor=0d1117" />
@@ -126,7 +126,7 @@ flowchart LR
 ```
 
 <p align="center">
-  <sub>🌐 <a href="https://amriz26.github.io/portfolio/">amriz26.github.io/portfolio</a> · 📫 ping this node on LinkedIn (link in profile) · ask me about weird sensor inputs</sub>
+  <sub>🌐 <a href="https://amriz26.github.io/ahmedm-portfolio/">amriz26.github.io/ahmedm-portfolio</a> · 📫 ping this node on LinkedIn (link in profile) · ask me about weird sensor inputs</sub>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:b8cfd3,25:b4c5ca,42:899297,55:696c70,68:534e4e,82:443936,100:3d2e2c&section=footer" alt="footer"/>
